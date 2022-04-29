@@ -123,6 +123,7 @@ img {
   justify-content: space-between;
   align-items: center;
   font-weight: var(--font-semi);
+ 
 }
 
 @media screen and (max-width: 767px) {
@@ -163,6 +164,7 @@ img {
 
 .nav__logo {
   color: var(--second-color);
+
 }
 
 .nav__toggle {
@@ -235,6 +237,7 @@ img {
 }
 
 .home__blob-img {
+  
   width: 360px;
 }
 
@@ -265,6 +268,7 @@ img {
 
 .about__img {
   justify-self: center;
+  
 }
 
 .about__img img {
